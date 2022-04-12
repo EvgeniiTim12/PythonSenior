@@ -1,6 +1,3 @@
-from re import A
-
-
 print("КАЛьКулятор")
 while True:
     a=float(input("введіть першу змінну:"))
