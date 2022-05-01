@@ -29,4 +29,3 @@ bb= Vibor("Добрий")
 bb.add_hero(sescond)
 bb.print_hero()
 
-    
